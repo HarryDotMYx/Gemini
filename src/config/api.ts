@@ -4,7 +4,6 @@ interface ApiConfig {
 }
 
 export const apiConfig: ApiConfig = {
-  apiKey: 'Your_Key_Code_Here',
-  apiUrl:
-    'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent',
+  apiKey: 'Your_API_Key_Here',
+  apiUrl: 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash-latest:generateContent',
 };
